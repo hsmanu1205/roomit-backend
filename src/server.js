@@ -17,7 +17,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://roomit-frontend-alpha.vercel.app/",
+      "https://roomit-frontend-alpha.vercel.app",
     ],
     credentials: true,
   })
