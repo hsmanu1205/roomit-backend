@@ -6,7 +6,7 @@ Backend API for RoomIt Meeting Room Booking System built using Node.js, Express.
 
 ## Live API
 
-🔗 Live API: PASTE_BACKEND_DEPLOYMENT_LINK_HERE
+🔗 Live API: https://roomit-backend-z03a.onrender.com/
 
 ---
 
